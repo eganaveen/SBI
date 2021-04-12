@@ -1,1 +1,8 @@
 user name : Eega
+password : reddy
+<<<<<<< HEAD
+=======
+
+5th commit
+6th commit
+>>>>>>> dev
