@@ -1,9 +1,5 @@
 This is file6, which is created in master branch.
 testing for webhook.
-<<<<<<< HEAD
-once again test for webhook.
-=======
 2nd test for webhook
 4th line
->>>>>>> 8dd004235d7597db5fd71221e62d547d79d7f7ac
 5th line
